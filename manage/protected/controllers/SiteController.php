@@ -37,8 +37,7 @@ class SiteController extends Controller
 	 */
 	public function actionIndex()
 	{
-        Yii::log($_SERVER, CLogger::LEVEL_INFO);
-
+        Yii::log($_SERVER, CLogger::LEVEL_INFO); //test
 		$this->render('index');
 	}
 

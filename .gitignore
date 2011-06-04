@@ -1,0 +1,7 @@
+framework/*
+requirements/*
+manage/assets/*
+client/assets/*
+manage/protected/runtime/*
+client/protected/runtime/*
+*.svn
